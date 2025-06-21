@@ -9,7 +9,7 @@ How to Contact FixMeStick?: Your Ultimate Guide
 
 .. image:: https://ccleanerguide.readthedocs.io/en/latest/_images/contact.png
    :alt: My Project Logo
-   :width: 100px
+   :width: 300px
    :align: center
    :target: https://getchatsupport.live/
 ______
