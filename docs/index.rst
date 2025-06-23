@@ -7,7 +7,7 @@ How to Contact FixMeStick?: Your Ultimate Guide
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://ccleanerguide.readthedocs.io/en/latest/_images/contact.png
+.. image:: contact1.png
    :alt: My Project Logo
    :width: 300px
    :align: center
